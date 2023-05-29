@@ -6,3 +6,4 @@ Input is an unsigned integer equal to one of these values: 1, 2, 4, 8, 16, 32, 6
 Compilation is just ```gcc -o <name> main.c```
 since everything is in one file.
 
+To run: ```./<name>```
